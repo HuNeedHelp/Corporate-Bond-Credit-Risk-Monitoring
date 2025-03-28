@@ -1,4 +1,4 @@
-name: torch-gpu
+name: DR-AIM
 channels:
   - pytorch
   - nvidia
@@ -298,4 +298,3 @@ dependencies:
     - tzdata==2024.2
     - wandb==0.18.5
     - websockets==13.1
-prefix: /share/disk/hsr/miniconda3/envs/torch-gpu
