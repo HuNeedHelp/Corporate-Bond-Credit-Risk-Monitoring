@@ -22,7 +22,7 @@
 
 ```bash
 conda env create -f 
-conda activate DR-AIM
+conda activate DR-AIM```
 
 **本文数据来源**：
 
