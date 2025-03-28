@@ -28,7 +28,7 @@ conda activate DR-AIM
 ## 运行代码
 在配置好环境后，可以使用以下命令来运行主程序：
 ```bash
-PYTHONWARNINGS="ignore" nohup python [main_sweep.py](http://_vscodecontentref_/1) > log/runing_result.log 2>&1 &
+PYTHONWARNINGS="ignore" nohup python main_sweep.py > log/runing_result.log 2>&1 &
 ```
 
 **本文数据来源**：
