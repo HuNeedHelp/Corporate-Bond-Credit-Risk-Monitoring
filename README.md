@@ -1,4 +1,4 @@
-# Corporate-Bond-Default-Risk-Monitoring-A-Deep-Learning-Based-Time-Series-Forecasting-Approach 企业债券信用风险监测——基于注意力机制与对抗训练的端到端预测框架
+# Corporate-Bond-Default-Risk-Monitoring-A-Deep-Learning-Based-Time-Series-Forecasting-Approach
 
 本代码库实现了一个基于深度学习的企业债券信用风险监测系统，采用了注意力机制和对抗训练的端到端预测框架(DR-AIM)。
 
