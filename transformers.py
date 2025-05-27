@@ -171,3 +171,4 @@ class Transformer(nn.Module):
             x = layer(query, key, value, mask=mask, mask_now=mask_now)
         output = self.fc_out(x)
         return output
+    

@@ -32,3 +32,4 @@ class Discriminator(nn.Module):
         return pred
 
 
+

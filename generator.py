@@ -54,3 +54,4 @@ class Generator(nn.Module):
         out = self.linear_out(x)
         
         return out  # shape(batch, seq_len, 1)
+
